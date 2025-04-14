@@ -20,7 +20,7 @@ const Footer = () => {
 							<span className={footerStyles.logo_name}>Ravish Tech.</span>
 						</div>
 						<div className={footerStyles[`media-icons`]}>
-							<Link href="https://github.com/ravishkr7369"><i > <FaGithub /> </i></Link>
+							<Link href="https://github.com/ravishkr7369?tab=repositories"><i > <FaGithub /> </i></Link>
 							<Link href="#"><i > <FaTwitter /> </i> </Link>
 							<Link href="https://www.instagram.com/thapatechnical/" target="_blank"><i > <FaInstagram />  </i></Link>
 							<Link href="https://www.linkedin.com/in/ravish-kumar-084950294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i > <FaLinkedinIn /> </i></Link>
